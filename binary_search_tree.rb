@@ -36,3 +36,6 @@ mytree.insert(67)
 mytree.insert(100)
 
 p mytree.to_arr
+
+
+
